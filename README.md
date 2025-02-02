@@ -1,1 +1,1 @@
-# atm_application
+This is a basic simple c language project.The primary goal of this project is to develop an ATM application that allows users to securely manage their bank accounts and perform various transactions, such as withdrawals, deposits, balance inquiries, and pin changing.
